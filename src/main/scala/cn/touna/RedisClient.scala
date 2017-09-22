@@ -201,7 +201,7 @@ object MainClass {
     //    dao.rpush("myfifo", "c")
     //    dao.rpush("myfifo", "b")
     //
-    //    println(dao.lhead("myfifo"))
+    //    println(dao.lhead("myfifo "))
     //
     //    println(dao.lpop("myfifo"))
     //    println(dao.lpop("myfifo"))
